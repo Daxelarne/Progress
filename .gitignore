@@ -1,0 +1,15 @@
+node_modules/
+locales/
+pnacl/
+swiftshader/
+*.dll
+*.dat
+*.exe
+!Progress.exe
+*.pak
+*.nexe
+*.db
+*.log
+*.bin
+tempdata.json
+vk_swiftshader_icd.json

@@ -1,0 +1,30 @@
+{
+  "name": "progress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "window": {
+    "title": "BV Devis",
+    "icon": "icon.png",
+    "width": 18000,
+    "height": 16000,
+    "toolbar": true,
+    "fullscreen": true
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daxelarne/Progress.git"
+  },
+  "author": "Alexandre Labre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daxelarne/Progress/issues"
+  },
+  "homepage": "https://github.com/Daxelarne/Progress#readme",
+  "dependencies": {
+    "mermaid": "^10.5.0"
+  }
+}
